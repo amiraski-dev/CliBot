@@ -4,8 +4,8 @@
 Simple and functional plugins
 ```
 حتما با بات خودتون این ربات هارو استارت کنید 
- ### [music](t.me/melobot)
- ### [gif](t.me/gif)
- ### [like](t.me/like)
+ ### [music](@melobot)
+ ### [gif](@melobot)
+ ### [like](@melobot)
 ## Good luck
 (:
