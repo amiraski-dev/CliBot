@@ -4,8 +4,8 @@
 Simple and functional plugins
 ```
 لطفا با ربات cli این ربات هارو قبلش استارت کنید 
- [music](t.me/melobot)
- [gif](t.me/gif)
- [like](t.me/like)
+ #### [music](t.me/melobot)
+ #### [gif](t.me/gif)
+ #### [like](t.me/like)
 ## Good luck
 (:
