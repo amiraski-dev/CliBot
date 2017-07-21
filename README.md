@@ -1,4 +1,4 @@
-## [Channel](https://telegram.me/Sourcesiran)
+## [Sourcesiran](https://telegram.me/Sourcesiran)
 # Developer :
 ### [Dev](https://telegram.me/Somerhaider)
 --
