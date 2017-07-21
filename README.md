@@ -2,7 +2,7 @@
 # Developer :
 ### [Dev](https://telegram.me/Somerhaider)
 --
-### [Ranmehr](https://telegram.me/sudoradmhr021)
+### [Radmehr](https://telegram.me/sudoradmhr021)
 ```sh
 Simple and functional plugins
 ```
