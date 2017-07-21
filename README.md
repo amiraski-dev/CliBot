@@ -3,9 +3,11 @@
 ```sh
 Simple and functional plugins
 ```
-حتما با بات خودتون این ربات هارو استارت کنید 
- ### [music](@melobot)
- ### [gif](@melobot)
- ### [like](@melobot)
+```sh
+حتما با بات خودتون این ربات هارو استارت کنید
+[@melobot]
+[@gif]
+[@like]
+```
 ## Good luck
 (:
