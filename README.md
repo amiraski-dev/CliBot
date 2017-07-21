@@ -1,5 +1,8 @@
 ## [Channel](https://telegram.me/Sourcesiran)
-## [Somerhalder](https://telegram.me/Somerhaider)
+# Developer :
+## [Dev](https://telegram.me/Somerhaider)
+help b
+## [Ranmehr](https://telegram.me/sudoradmhr021)
 ```sh
 Simple and functional plugins
 ```
